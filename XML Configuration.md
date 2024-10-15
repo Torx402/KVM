@@ -25,6 +25,7 @@ Where as in Windows, this looked like:
 | 1      | 0    |
 | 2      | 1    |
 | 3      | 1    |
+
 This difference in mapping can be detrimental for the performance of guests. For this reason, it is always important to check how your OS of choice does this mapping (or just disable hyperthreading/SMT in the BIOS). To this end, you may use the `lscpu -e` command on Linux, or [Coreinfo](https://learn.microsoft.com/en-us/sysinternals/downloads/coreinfo) utility on Windows. Currently, the CPU pinning for my Windows guest looks like:
 
 ```XML
