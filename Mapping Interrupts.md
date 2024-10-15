@@ -1,0 +1,1 @@
+The issue with interrupts had to be one of the few times in my life where I was close to giving up on a project of mine and never looking back. It's a subtle issue that I didn't really see being talked about in most of the guides that cover virtualization using libvirt/QEMU. Let's start by defining what and how interrupts are, before moving on to the problem at hand.
