@@ -2,11 +2,11 @@
 
 Ever looked at your computer's idle cores and wondered:
 
-	"Damn, I really wish I could use this spare processing power for something"
+"Damn, I really wish I could use this spare processing power for something"
 
 Or maybe you are just tired from dual booting your windows gaming system and your favorite Linux distro and thought to yourself:
 
-	"Gee, I see these Cloud services that are able to create virtualized machines according to hardware availability at will! How do they do it?! I wish I had something like that."
+"Gee, I see these Cloud services that are able to create virtualized machines according to hardware availability at will! How do they do it?! I wish I had something like that."
 
 No? Well now you can wonder those exact things and may or may not use this guide (which documents the pain I went through) to get such a dream system up and running, where no longer would I have to shut down my computer to switch between operating systems. 
 
